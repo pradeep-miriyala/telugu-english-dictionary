@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+<li><OBJECT type="text/sitemap">
+		<param name="Name" value="English"/>		
+		<param name="Local" value="enRoot.htm"/>		
+	</OBJECT>	
+<ul>
+<li> <Object type="text/sitemap">
+				<param name="Name" value="Before start"/>
+				<param name="Local" value="enBeforeStart.htm"/>
+			</object>
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="How To Use"/>
+				<param name="Local" value="enHowToUse.htm"/>		
+			</object>			
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="FAQ"/>
+				<param name="Local" value="enFAQ.htm"/>		
+			</object>	
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Credits"/>
+				<param name="Local" value="enCredits.htm"/>
+			</object>	
+</ul>
+
+<li><OBJECT type="text/sitemap">
+		<param name="Name" value="Telugu"/>		
+		<param name="Local" value="teRoot.htm"/>		
+	</OBJECT>	
+	<ul>
+<li> <Object type="text/sitemap">
+				<param name="Name" value="Before start"/>
+				<param name="Local" value="teBeforeStart.htm"/>
+			</object>
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="How To Use"/>
+				<param name="Local" value="teHowToUse.htm"/>		
+			</object>		
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="FAQ"/>
+				<param name="Local" value="teFAQ.htm"/>		
+			</object>	
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Credits"/>
+				<param name="Local" value="teCredits.htm"/>
+			</object>
+</UL></ul>
+</BODY></HTML>

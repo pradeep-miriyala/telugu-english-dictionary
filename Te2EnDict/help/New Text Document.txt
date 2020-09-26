@@ -1,0 +1,9 @@
+start /wait hhc "hlp\Simzip.hhp"
+if not exist "hlp\simzip.chm" goto :HelpError
+copy "hlp\simzip.chm" "$(OutDir)\simzip.chm"
+goto :HelpDone
+:HelpError
+echo hlp\simzip.hhp(1) : error:Problem encountered creating help file
+echo.
+:HelpDone
+echo.

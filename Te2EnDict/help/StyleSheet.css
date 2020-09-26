@@ -1,0 +1,59 @@
+BODY
+{
+    font-family: verdana;
+    font-size: x-small;
+    font-style: normal;
+    color: #000000;
+}
+.smallcps
+{
+    font-variant: small-caps;
+}
+
+
+.Symbol
+{
+    font-size: small;
+    font-family: Symbol;
+    font-weight: bold;
+}
+
+.TopBox
+{
+    border-color: Black;
+    border-width: thin;
+    border-style: solid;
+    text-align: center;
+    text-decoration: underline;
+    font-size: medium;
+}
+.ContentBox
+{
+    border: thin solid Black;
+    text-decoration: none;
+    font-size: small;
+}
+.list
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+li
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#Select1
+{
+    width: 123px;
+}
+#langselection
+{
+    width: 131px;
+    height: 16px;
+}

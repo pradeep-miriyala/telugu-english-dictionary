@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<ul>
+	<ul> <OBJECT type="text/sitemap">
+			<param name="Name" value="Telugu English Dictionary"/>		
+			<param name="Local" value="ROOT_DIALOG.htm"/>		
+		</OBJECT>		
+		<li> <OBJECT type="text/sitemap">
+			<param name="Name" value="Telugu English Dictionary"/>		
+			<param name="Local" value="ROOT_DIALOG.htm"/>		
+		</OBJECT>	
+</ul>
+</ul>
+<ul>
+	<Object type="text/sitemap">
+		<param name="Name" value="Telugu"/>
+		<param name="Keyword" value="Telugu" />
+		<param name="Local" value="teroot.htm"/>	
+	</object>	
+	<li> <Object type="text/sitemap">
+			<param name="Name" value="Telugu"/>
+			<param name="Local" value="teroot.htm"/>			
+		</object>
+</ul>
+<ul><ul><OBJECT type="text/site properties">
+			<param name="ImageType" value="Folder">
+		</OBJECT>			
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Before start"/>
+				<param name="Local" value="teBeforeStart.htm"/>
+			</object>
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="How To Use"/>
+				<param name="Local" value="teHowToUse.htm"/>		
+			</object>		
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="FAQ"/>
+				<param name="Local" value="teFAQ.htm"/>		
+			</object>	
+				<li> <Object type="text/sitemap">
+				<param name="Name" value="Random Word"/>
+				<param name="Local" value="teRandomWord.htm"/>
+			</object>	
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="History"/>
+				<param name="Local" value="teHistory.htm"/>
+			</object>
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Shortcuts" />
+				<param name="Local" value="teShortcuts.htm" />
+				</object>
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Credits"/>
+				<param name="Local" value="teCredits.htm"/>
+			</object>
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Change Log"/>
+				<param name="Local" value="teChangeLog.htm"/>
+			</object>	
+</ul></ul>
+<ul>
+	<Object type="text/sitemap">
+		<param name="Name" value="English"/>
+		<param name="Keyword" value="Telugu" />
+		<param name="Local" value="enroot.htm"/>		
+	</object>	
+	<li> <Object type="text/sitemap">
+			<param name="Name" value="English"/>
+			<param name="Local" value="enroot.htm"/>
+		</object>
+</ul>			
+<ul><ul><OBJECT type="text/site properties">
+			<param name="ImageType" value="Folder">
+		</OBJECT>	
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Before start"/>
+				<param name="Local" value="enBeforeStart.htm"/>
+			</object>
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="How To Use"/>
+				<param name="Local" value="enHowToUse.htm"/>		
+			</object>			
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="FAQ"/>
+				<param name="Local" value="enFAQ.htm"/>		
+			</object>			
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Random Word"/>
+				<param name="Local" value="enRandomWord.htm"/>
+			</object>	
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="History"/>
+				<param name="Local" value="enHistory.htm"/>
+			</object>
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Shortcuts"/>
+				<param name="Local" value="enShortcuts.htm"/>
+			</object>	
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Credits"/>
+				<param name="Local" value="enCredits.htm"/>
+			</object>
+		<li> <Object type="text/sitemap">
+				<param name="Name" value="Change Log"/>
+				<param name="Local" value="enChangeLog.htm"/>
+			</object>	
+</ul></ul>
+
+
+	<ul> <OBJECT type="text/sitemap">
+			<param name="Name" value="Typing in Telugu"/>		
+			<param name="Local" value="geTypeInTelugu.htm"/>		
+		</OBJECT>		
+		<li> <OBJECT type="text/sitemap">
+			<param name="Name" value="Typing in Telugu"/>		
+			<param name="Local" value="geTypeInTelugu.htm"/>		
+		</OBJECT>	
+</ul>
+
+<ul> <OBJECT type="text/sitemap">
+			<param name="Name" value="Quick Tips"/>		
+			<param name="Local" value="geTips.htm"/>		
+		</OBJECT>		
+		<li> <OBJECT type="text/sitemap">
+			<param name="Name" value="Quick Tips"/>		
+			<param name="Local" value="geTips.htm"/>		
+		</OBJECT>	
+</ul>
+
+</BODY></HTML>

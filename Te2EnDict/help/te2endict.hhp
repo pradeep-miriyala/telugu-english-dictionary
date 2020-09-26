@@ -1,0 +1,35 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=Te2EnDict.chm
+Contents file=Te2EnDict.hhc
+Index file=Te2EnDict.hhk
+Default topic=ROOT_DIALOG.HTM
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x0409 English (United States)
+
+[FILES]
+ROOT_DIALOG.HTM
+footerFrame.htm
+teRoot.htm
+enroot.htm
+teFAQ.htm
+enFAQ.htm
+teHowToUse.htm
+enHowToUse.htm
+teBeforeStart.htm
+enBeforeStart.htm
+teCredits.htm
+enCredits.htm
+enChangeLog.htm
+teChangeLog.htm
+enRandomWord.htm
+enShortcuts.htm
+enHistory.htm
+teRandomWord.htm
+teShortcuts.htm
+teHistory.htm
+geTypeInTelugu.htm
+geTips.htm
+StyleSheet.css
